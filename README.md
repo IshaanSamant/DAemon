@@ -1,4 +1,5 @@
 # DAemon
+This is a data analytics project based on the 2015 flight delays and cancellation dataset.
 
 # Visualizations 
 This program goes through various visualizations on the dataset like the distributions of the departure delays per airline, the distributions of flights for each airline, the number of airports visited by each airline and the comparison of the departure delay and arrival delay of different airlines
